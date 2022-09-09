@@ -1,7 +1,7 @@
 
 
 # 30 days Challenge 
-## Day 1  Music Player
+## Day 2  Login Signup UI
 
 For Learning Purpose 
 
